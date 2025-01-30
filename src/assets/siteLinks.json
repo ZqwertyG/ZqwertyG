@@ -2,8 +2,8 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.zghome.us.kg/"
-  },
+    "link": "https://blog.zghome.me/"
+  }
   {
     "icon": "Cloud",
     "name": "网盘",
@@ -22,8 +22,8 @@
   {
     "icon": "Book",
     "name": "导航",
-    "link": "https://web.zghome.us.kg/"
-  },
+    "link": "https://web.zghome.me"
+  }
   {
     "icon": "Fire",
     "name": "今日热榜",
@@ -32,6 +32,6 @@
   {
   "icon": "Cloud",
   "name": "反代",
-  "link": "https://fandai.zghome.us.kg"
+  "link": "https://fandai.zghome.me"
 }
 ]
